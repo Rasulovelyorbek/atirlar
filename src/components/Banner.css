@@ -1,0 +1,26 @@
+.banner-content{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.search-bar{
+
+}
+.search-input{
+  width: 800px;
+  height: 40px;
+  border: none;
+  box-shadow: 0px 0px 3px 0px #D6B88D;
+  background-color: black;
+}
+.catalog-button{
+  height: 40px;
+  box-shadow: 0px 0px 5px 0px #D6B88D;
+  background-color: rgb(59, 59, 59);
+  padding:10px 20px;
+
+}
+.icon{
+  display: flex;
+  gap: 20px;
+}

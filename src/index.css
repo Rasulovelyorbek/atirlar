@@ -1,0 +1,15 @@
+body {
+  background-color: #3e3e3d;
+}
+
+* {
+  color: #ffd297;
+  list-style: none;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+.container {
+  margin: 0 auto;
+  padding: 0;
+  width: 1440px;
+}

@@ -1,0 +1,25 @@
+.footer{
+  background-color: black;
+  margin-top: 100px;
+}
+.futrCard{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50px;
+}
+.logoo{
+  margin-left: 46%;
+}
+.par{
+  text-align: center;
+}
+.fa-solid{
+ font-size: 25px;
+ color: #efefef;
+}
+.fa-solid:hover{
+ font-size: 25px;
+ color: #C09E6C;
+}
+

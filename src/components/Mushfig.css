@@ -1,0 +1,35 @@
+.atircard {
+  padding: 30px;
+  background-color: #36332e;
+  width: 305px;
+  height: 517px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.atircard:hover {
+  background-color: #3e3e3d;
+  border: 1px solid;
+}
+.btn button {
+  background-color: #36332e;
+  border: 1px solid;
+  margin: 4px;
+  padding: 8px 9px;
+}
+
+.btn button:hover {
+  background: linear-gradient(#c09e6c, #ffebcc, #bf936b);
+  color: #36332e;
+}
+.korzinku {
+  padding: 12px 72px;
+  border-radius: 3px;
+  background-color: #36332e;
+  border: none;
+  box-shadow: 0px 0px 2px 0px;
+}
+.korzinku:hover {
+  background: linear-gradient(#c09e6c, #ffebcc, #bf936b);
+  color: #36332e;
+}

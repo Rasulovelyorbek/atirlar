@@ -1,0 +1,17 @@
+.katalog-content button {
+  padding: 12px 40px;
+  background-color: #36332e;
+  border: none;
+  margin: 4px;
+}
+
+.katalog-content button:hover {
+  background: linear-gradient(#c09e6c, #ffebcc, #bf936b);
+  color: #36332e;
+
+}
+.col{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}
